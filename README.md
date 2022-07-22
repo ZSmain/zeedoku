@@ -1,3 +1,3 @@
 # Zeedoku
 
-Building the famous 'Soduku' puzzle game using SvelteKit.
+Building the famous 'Sudoku' puzzle game using SvelteKit.
